@@ -10,7 +10,7 @@ Clone repo and install!
 
 * For **Yarn**: `yarn install`
 
-Change name project in [`package.json`](./package.json#L2) and [`webpack.common.js`](./config/webpack.common.js#L38).
+Change name project in [`package.json`](./package.json#L2), [`template.html`](./public/template.html#L7) and [`webpack.common.js`](./config/webpack.common.js#L38).
 
 ## Usage
 
